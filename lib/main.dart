@@ -116,3 +116,5 @@ class _MyHomePageState extends State<MyHomePage> {
 }
 
 //Este es un código para revisión
+//Lo más seguros es que debe reescribirse el código
+//Se ha creado un ticket para la modificación del código
